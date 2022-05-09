@@ -54,6 +54,6 @@ Please see the instructions below for how we uploaded `.ino` code files to the r
 
 > <img src="images/upload_button.png" width="250" alt="Select the appropriate port"/>
 
-#### Arduino UNO WiFi
+<!-- #### Arduino UNO WiFi -->
 
 <!-- # Using KiTTY software to save Arduino Serial Monitor output -->
