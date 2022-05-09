@@ -16,7 +16,7 @@ This directory contains three folders, each with 13 parts:
 
 2. `*.STL`
 
-    * These STL files were drawn in terms of inches. Please use these files if you would like to print the device!
+    * The unit of these STL files is inches. Please use these files if you would like to print the device!
 
 3. `*.3MF`
 
