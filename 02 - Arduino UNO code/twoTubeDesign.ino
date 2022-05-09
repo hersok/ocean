@@ -14,7 +14,7 @@ int sensorValue = 0;
 double valuesAverage = 0;
 int counter = 0;
 double delayVal = 1000;
-// total time for testing
+// total time for testing (in seconds)
 double totalTime = 0.1;
 
 const int ELEMENT_COUNT_MAX = 100;
@@ -26,7 +26,8 @@ const int NUMBER_OF_EXTREMES = 4;
 double extremes[NUMBER_OF_EXTREMES];
 double times[NUMBER_OF_EXTREMES];
 
-// this double sets the threshold between
+// when the sensorValue crosses the monitoringThreshold,
+// the code starts to look for peak values to record
 const double monitoringThreshold = 0.03;
 double thresholdValue = 0;
 int maxValue = 0;
