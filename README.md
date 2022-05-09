@@ -1,6 +1,6 @@
 # O.C.E.A.N. – Open-Hardware Concentration Estimation and Numeration
 
-> <img src="images/ocean.jpg" width="250" alt="Open-Hardware Concentration Estimation and Numeration"/>
+> <img src="images/ocean.jpg" width="400" alt="Open-Hardware Concentration Estimation and Numeration"/>
 
 ### What is O.C.E.A.N.?
 
