@@ -2,7 +2,7 @@
 
 ## Description
 
-This folder contains all of the 3D-printed parts for each design
+This folder contains all of the 3D-printed parts for O.C.E.A.N.
 
 All parts were designed in SolidWorks
 
@@ -16,7 +16,7 @@ This directory contains three folders, each with 13 parts:
 
 2. `*.STL`
 
-    * The unit of these STL files is inches. Please use these files if you would like to print the device!
+    * The unit for these STL files is inches. Please use these files if you would like to print the device!
 
 3. `*.3MF`
 

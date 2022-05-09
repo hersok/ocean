@@ -40,7 +40,7 @@
 
 ### Parts required
 
-1. UV LED (watch out for the direction of the positive leg!)
+1. UV LED (watch out for the direction of the positive lead!)
 
 2. Light-dependent resistor
 
